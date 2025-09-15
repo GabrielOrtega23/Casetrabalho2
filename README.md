@@ -15,4 +15,6 @@
 <p>Deploy</p>
 <img width="400" height="212" alt="image" src="https://github.com/user-attachments/assets/297e5538-2445-47d1-bf2d-ffa79525d5a8" />
 
+<h2>Classificador de faixa etária</h2>
+
 
