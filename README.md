@@ -48,11 +48,13 @@
 <p> É solicitado o depósito se usar a opção 3 e é criado uma variável depósito e irá ser solicitado ao usuário</p>
 <p>Deploys</p>
 <img width="305" height="181" alt="image" src="https://github.com/user-attachments/assets/1598fd04-a229-40f3-b9e9-38fbc74e4536" />
-
+<br>
 <br>
 <img width="478" height="239" alt="image" src="https://github.com/user-attachments/assets/80f12966-c5df-42d8-beee-77bae2575b1b" />
 <br>
+<br>
 <img width="519" height="235" alt="image" src="https://github.com/user-attachments/assets/1b87781f-8b35-4d3d-9935-9e5b7ca5169c" />
+<br>
 <br>
 <img width="316" height="187" alt="image" src="https://github.com/user-attachments/assets/29be805c-17a6-47d5-b81f-c656806fe8bc" />
 
