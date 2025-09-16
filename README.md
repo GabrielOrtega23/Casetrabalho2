@@ -35,6 +35,26 @@
 <p>Deploy</p>
 <img width="259" height="54" alt="image" src="https://github.com/user-attachments/assets/946dc5b8-9244-4137-b86e-203a8a358b87" />
 
+<h2>Simulador de atendimento bancário</h2>
+<p>Cria um objeto Scanner para ler a entrada do usuário</p>
+<img width="717" height="105" alt="image" src="https://github.com/user-attachments/assets/cae3caa6-1f66-4dd0-8a82-16770c219652" /></p>
+<p>Criar uma variável do saldo inicial</p>
+<img width="342" height="69" alt="image" src="https://github.com/user-attachments/assets/fd0cb190-0444-44ed-9daa-168bdea0d396" />
+<p>Menu de atendimento e solicitar o número que o usuário preferir de acordo com as opções</p>
+<img width="626" height="243" alt="image" src="https://github.com/user-attachments/assets/64c4c45b-b61f-4910-9593-3c7517b27f52" />
+<p>Switch para tratar a opção do número que o usuário escolher</p>
+<img width="951" height="730" alt="image" src="https://github.com/user-attachments/assets/b0def66f-e242-44f8-9aa5-e83468fe52b0" />
+<p>Se o saque for maior que o saldo, terá uma mensagem de erro, também s é solicitado o depósito se usar a opção 3 e é criado uma variável depósito e irá ser solicitado ao usuário</p>
+<p>Deploys</p>
+<img width="301" height="235" alt="image" src="https://github.com/user-attachments/assets/de829d3e-ca20-4304-bc52-28a6e91d2d37" />
+<img width="478" height="239" alt="image" src="https://github.com/user-attachments/assets/80f12966-c5df-42d8-beee-77bae2575b1b" />
+<img width="519" height="235" alt="image" src="https://github.com/user-attachments/assets/1b87781f-8b35-4d3d-9935-9e5b7ca5169c" />
+<img width="316" height="187" alt="image" src="https://github.com/user-attachments/assets/29be805c-17a6-47d5-b81f-c656806fe8bc" />
+
+
+
+
+
 
 
 
