@@ -47,7 +47,8 @@
 <p>Se o saque for maior que o saldo, terá uma mensagem de erro</p>
 <p> É solicitado o depósito se usar a opção 3 e é criado uma variável depósito e irá ser solicitado ao usuário</p>
 <p>Deploys</p>
-<img width="301" height="235" alt="image" src="https://github.com/user-attachments/assets/de829d3e-ca20-4304-bc52-28a6e91d2d37" />
+<img width="305" height="181" alt="image" src="https://github.com/user-attachments/assets/1598fd04-a229-40f3-b9e9-38fbc74e4536" />
+
 <br>
 <img width="478" height="239" alt="image" src="https://github.com/user-attachments/assets/80f12966-c5df-42d8-beee-77bae2575b1b" />
 <br>
